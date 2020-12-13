@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Bro2020}
+Noam Brown, Anton Bakhtin, Adam Lerer, and Qucheng Gong.
+\newblock Combining deep reinforcement learning and search for
+  imperfect-information games.
+\newblock {\em arXiv:2007.13544}, 2020.
+
+\bibitem{Bur2009}
+Michael Buro, Jeffrey Long, Timothy Furtak, and Nathan Sturtevant.
+\newblock Improving state evaluation, inference, and search in trick-based card
+  games.
+\newblock pages 1407--1413, 01 2009.
+
+\bibitem{CarOhm2019}
+Fredrik Carlsson and Joey \"Ohman.
+\newblock {\em AlphaZero to Alpha Hero: A pre-study on Additional Tree Sampling
+  within Self-Play Reinforcement Learning}, 2018 (visited December 13, 2020).
+
+\bibitem{CazVen2019}
+Tristan Cazenave and Véronique Ventos.
+\newblock The ${\alpha}{\mu}$ search algorithm for the game of bridge.
+\newblock 2019.
+
+\bibitem{Cow2012}
+P.~I. {Cowling}, E.~J. {Powley}, and D. {Whitehouse}.
+\newblock Information set monte carlo tree search.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 4(2):120--143, 2012.
+
+\bibitem{Ora2018}
+Oracle Developers.
+\newblock {\em Lessons From Implementing AlphaZero}, 2018 (visited December 13,
+  2020).
+
+\bibitem{FraBas1998}
+Ian Frank and David Basin.
+\newblock Search in games with incomplete information: a case study using
+  bridge card play.
+\newblock {\em Artificial Intelligence}, 100(1):87 -- 123, 1998.
+
+\bibitem{Gin2001}
+M.~L. Ginsberg.
+\newblock Gib: Imperfect information in a computationally challenging game.
+\newblock {\em Journal of Artificial Intelligence Research}, 14:303–358, Jun
+  2001.
+
+\bibitem{KocSze2006}
+Levente Kocsis and Csaba Szepesv\'{a}ri.
+\newblock Bandit based monte-carlo planning.
+\newblock page 282–293, 2006.
+
+\bibitem{LonStu2010}
+Jeffrey Long, Nathan~R. Sturtevant, Michael Buro, and Timothy Furtak.
+\newblock Understanding the success of perfect information monte carlo sampling
+  in game tree search.
+\newblock page 134–140, 2010.
+
+\bibitem{Mor2017}
+Matej Moravčík, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill,
+  Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling.
+\newblock Deepstack: Expert-level artificial intelligence in heads-up no-limit
+  poker.
+\newblock {\em Science}, 356(6337):508–513, Mar 2017.
+
+\bibitem{Ros2011}
+Christopher Rosin.
+\newblock Multi-armed bandits with episode context.
+\newblock {\em Annals of Mathematics and Artificial Intelligence}, 61:203--230,
+  09 2010.
+
+\bibitem{Sil2017}
+David Silver, Julian Schrittwieser, Karen Simonyan, Ioannis Antonoglou, Aja
+  Huang, Arthur Guez, Thomas Hubert, Lucas Baker, Matthew Lai, Adrian Bolton,
+  Yutian Chen, Timothy Lillicrap, Fan Hui, Laurent Sifre, George van~den
+  Driessche, Thore Graepel, and Demis Hassabis.
+\newblock Mastering the game of go without human knowledge.
+\newblock {\em Nature}, 550:354--359, 10 2017.
+
+\bibitem{Stu2008}
+Nathan~R. Sturtevant.
+\newblock An analysis of uct in multi-player games.
+\newblock In {\em Proceedings of the 6th International Conference on Computers
+  and Games}, CG '08, page 37–49, Berlin, Heidelberg, 2008. Springer-Verlag.
+
+\end{thebibliography}
